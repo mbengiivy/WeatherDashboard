@@ -1,5 +1,5 @@
 # 30 DAYS DEVOPS CHALLENGE-DAY 1
-##WEATHER DASHBOARD APP
+## WEATHER DASHBOARD APP
 
 Building a weather data collection system using AWS S34 and OpenWeather API
 
