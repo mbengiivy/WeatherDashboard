@@ -13,14 +13,14 @@ This project utilises an API and AWS services for storage to create a data colle
 
 Within this project the .env file contains the OpenWeather API and your AWS bucket
 
-##CLONING INSTRUCTIONS:
+## CLONING INSTRUCTIONS:
 1. Clone this repository
 2. Install dependencies using pip install -r requirements.txt
 3. Create a .env file with your AWS and OpenWeather API keys
 4. Run the python script using the command python .\src\weather_dashdashboard.py
 
 
-#What I learned:
+# What I learned:
 -Using .env files to store sensitive information
 -Using AWS SDK to interact with AWS services
 -Using OpenWeather API to collect weather data
