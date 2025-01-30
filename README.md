@@ -1,5 +1,5 @@
 # 30 DAYS DEVOPS CHALLENGE-DAY 1
-##WEATHER DASHBOARD APP
+## WEATHER DASHBOARD APP
 
 Building a weather data collection system using AWS S34 and OpenWeather API
 
@@ -21,8 +21,8 @@ Within this project the .env file contains the OpenWeather API and your AWS buck
 
 
 # What I learned:
--Using .env files to store sensitive information
--Using AWS SDK to interact with AWS services
--Using OpenWeather API to collect weather data
--Using python to interact with APIs and AWS services
+1. Using .env files to store sensitive information
+2. Using AWS SDK to interact with AWS services
+3. Using OpenWeather API to collect weather data
+4. Using python to interact with APIs and AWS services
 
